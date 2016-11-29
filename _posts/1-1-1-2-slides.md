@@ -61,7 +61,7 @@ Around 100 varities of edible mushrooms can only be found in Yunnan. We were luc
 
 You could be making a monthly salary of 2100 RMB as a cashier in the Kunming mall. Opportunity abounds.
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3599.JPG"}} width="350">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3599.JPG"}} width="325">
 
 ---
 
@@ -94,8 +94,9 @@ We found it like this, promise. (On our flight between Kunming and Guangzhou, th
 
 ## Ads in China
 
-have a lot of white people in them, weirdly enough.
 <img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3631.JPG"}} width="500">
+
+Sporting the occasional white guy.
 
 ---
 
@@ -122,9 +123,9 @@ Who knew?
 
 ---
 
-## Did you notice the camera?
-
 <img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3675.JPG"}} width="600">
+
+In my opinion, they also need to be announcing that there's a camera with a mounted loudspeaker.
 
 ---
 
