@@ -28,3 +28,4 @@ highlighter: pygments
 markdown_ext: ignoreme
 
 baseurl: /galleryjc
+include: ["galleryc"]
