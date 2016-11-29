@@ -131,6 +131,6 @@ But actually, proper liquor stores are much nicer in China than they are here.
 
 ## The End
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3680.JPG"}} width="600">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3580.JPG"}} width="600">
 
 Merry Christmas!
