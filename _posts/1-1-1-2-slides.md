@@ -6,9 +6,8 @@ Believe it or not, Hainan Airlines is very generous with its alcohol (unlike air
 ---
 
 ## Musical chairs in Beijing
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3498.JPG"}} width="400">
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smojtELA1_0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -16,7 +15,7 @@ Believe it or not, Hainan Airlines is very generous with its alcohol (unlike air
 
 <table>
 <tr><td>
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3575.JPG"}} width="600">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3575.JPG"}} width="500">
 </td>
 <td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FGYwsvkE_UI" frameborder="0" allowfullscreen></iframe>
@@ -24,7 +23,7 @@ Believe it or not, Hainan Airlines is very generous with its alcohol (unlike air
 </tr>
 </table>
 
-Against the smog-filled roads of Beijing, the streams of mopeds add to the impression of a dystopic city. Under the blue skies of Kunming, it feels like we're 
+Against the smog-filled roads of Beijing, the streams of mopeds add to the impression of a dystopic city. Under the blue skies of Kunming, 
 
 ---
 
@@ -44,9 +43,9 @@ Ginger tofu soup, silky tofu, and Chou Doufu.
 
 ---
 
-## Classic Yunnan dishes, pt. 3
+## Trees
 
-The best mushrooms you'll ever eat
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P32bb1JOCwE" frameborder="0" allowfullscreen></iframe>
 
 ---
 
