@@ -23,7 +23,7 @@ Believe it or not, Hainan Airlines is very generous with its alcohol (unlike air
 </tr>
 </table>
 
-Against the smog-filled roads of Beijing, the streams of mopeds add to the impression of a dystopic city. Under the blue skies of Kunming, 
+Mopeds are big here. According to one source, bicycles required too much effort so the rich got cars and the rest got mopeds.
 
 ---
 
@@ -74,10 +74,66 @@ You could be making a monthly salary of 2100 RMB as a cashier in the Kunming mal
 
 <img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3627.JPG"}} width="300">
 
-We found it like this, promise. (On our flight between Kunming and Guangzhou, the seat backs had no screens attached. Instead, the seat pockets had these red tablets you could probably watch movies on. We wouldn't know.)
+We found it like this, promise. (On our flight between Kunming and Guangzhou, the seat backs had no screens attached. Instead, the seat pockets had these red tablets you could probably watch movies on... We wouldn't know.)
 
 ---
 
-## The waste
+## Ads in China
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3622.JPG"}} width="500">
+have a lot of white people in them, weirdly enough.
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3631.JPG"}} width="500">
+
+---
+
+## Marketplaces
+
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3631.JPG"}} width="500">
+
+Fruit for jaw droppingly low prices.
+
+---
+
+## PBR
+
+Who knew?
+<table>
+<tr><td>
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3668.JPG"}} width="500">
+</td>
+<td>
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3670.JPG"}} width="500">
+</td>
+</tr>
+</table>
+
+---
+
+## Did you notice the camera?
+
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3675.JPG"}} width="500">
+
+Fruit for jaw droppingly low prices.
+
+
+---
+
+## More PBR
+
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3677.JPG"}} width="500">
+
+But actually, proper liquor stores are much nicer in China than they are here.
+
+---
+
+## No Swinging
+
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3695.JPG"}} width="500">
+
+
+---
+
+## The End
+
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3680.JPG"}} width="500">
+
+Merry Christmas!
