@@ -43,6 +43,14 @@ Ginger tofu soup, silky tofu, and Chou Doufu.
 
 ---
 
+## Mushrooms of Yunnan
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eqhmloUWW8I" frameborder="0" allowfullscreen></iframe>
+
+Around 100 varities of edible mushrooms can only be found in Yunnan. We were lucky enough to try some of them out at this mushroom restaurant.
+
+---
+
 ## Trees
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P32bb1JOCwE" frameborder="0" allowfullscreen></iframe>
@@ -67,6 +75,12 @@ You could be making a monthly salary of 2100 RMB as a cashier in the Kunming mal
 ## The waste
 
 <img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3622.JPG"}} width="350">
+
+---
+
+## Then we went to Guangzhou
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhJanWpU_-0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -116,9 +130,9 @@ Who knew?
 
 ## More PBR
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3677.JPG"}} width="600">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3677.JPG"}} width="550">
 
-But actually, proper liquor stores are much nicer in China than they are here.
+But actually, proper liquor stores are much cleaner in China than they are here. PBR is sold in supermarkets.
 
 ---
 
