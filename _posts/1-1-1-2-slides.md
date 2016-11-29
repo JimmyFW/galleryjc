@@ -87,7 +87,7 @@ have a lot of white people in them, weirdly enough.
 
 ## Marketplaces
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3631.JPG"}} width="500">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3636.JPG"}} width="500">
 
 Fruit for jaw droppingly low prices.
 
@@ -101,7 +101,7 @@ Who knew?
 <img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3668.JPG"}} width="500">
 </td>
 <td>
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3670.JPG"}} width="500">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3670.JPG"}} width="250">
 </td>
 </tr>
 </table>
@@ -110,16 +110,13 @@ Who knew?
 
 ## Did you notice the camera?
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3675.JPG"}} width="500">
-
-Fruit for jaw droppingly low prices.
-
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3675.JPG"}} width="600">
 
 ---
 
 ## More PBR
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3677.JPG"}} width="500">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3677.JPG"}} width="600">
 
 But actually, proper liquor stores are much nicer in China than they are here.
 
@@ -127,13 +124,13 @@ But actually, proper liquor stores are much nicer in China than they are here.
 
 ## No Swinging
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3695.JPG"}} width="500">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3695.JPG"}} width="600">
 
 
 ---
 
 ## The End
 
-<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3680.JPG"}} width="500">
+<img src={{ "https://raw.githubusercontent.com/JimmyFW/galleryjc/master/galleryc/" | append: "IMG_3680.JPG"}} width="600">
 
 Merry Christmas!
